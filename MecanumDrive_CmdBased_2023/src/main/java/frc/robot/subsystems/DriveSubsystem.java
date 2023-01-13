@@ -97,5 +97,6 @@ public double getDriveEncoderFt(){
   @Override
   public void simulationPeriodic() {
     // This method will be called once per scheduler run during simulation
+    // cool easter egg and test
   }
 }
